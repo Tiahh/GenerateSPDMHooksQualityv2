@@ -1,4 +1,4 @@
-<details>
+
 <summary>🔧 IL2CPP Hooks Generator by Tiahh 🔧</summary>
 
 ---
@@ -19,4 +19,4 @@ This application is developed as an educational prototype. While it demonstrates
 
 ---
 
-</details>
+
